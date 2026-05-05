@@ -98,11 +98,20 @@ This project uses the SORT algorithm by Alex Bewley, licensed under the GNU Gene
 ---
 
 ## 🙌 Acknowledgements
-- Ultralytics YOLOv8  
-- SORT Algorithm by Alex Bewley  
-- OpenCV community  
 
----
+This project is built using the following open-source technologies:
+
+- YOLOv8 by Ultralytics  
+  https://github.com/ultralytics/ultralytics  
+
+- SORT: Simple Online and Realtime Tracking by Alex Bewley  
+  https://github.com/abewley/sort  
+
+- OpenCV  
+  https://opencv.org/  
+
+Special thanks to the open-source community for making these tools freely available.
+
 
 ## 💡 Author
 **Palak Bharat Paryani**
