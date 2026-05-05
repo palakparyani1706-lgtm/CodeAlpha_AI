@@ -106,3 +106,6 @@ This project uses the SORT algorithm by Alex Bewley, licensed under the GNU Gene
 
 ## 💡 Author
 **Palak Bharat Paryani**
+
+## 🏢 Internship
+**AI Internship - CodeAlpha**
